@@ -4,9 +4,9 @@ go 1.16
 
 require (
 	github.com/frankban/quicktest v1.13.0 // indirect
-	github.com/go-test/deep v1.0.8 // indirect
+	github.com/go-test/deep v1.0.8
 	github.com/google/go-cmp v0.5.8 // indirect
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.3.0
 	github.com/pierrec/lz4 v2.3.0+incompatible
 	github.com/pkg/xattr v0.4.1
 	github.com/sirupsen/logrus v1.7.0
